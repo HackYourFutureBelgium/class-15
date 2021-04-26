@@ -1,26 +1,9 @@
+## I'm Hajir 
+![Hajir **Photo](https://avatars.githubusercontent.com/u/78594339?v=4)
+ *  I'm living in Nazareth
+*  I am student at Hack Your Future HYF.
+*  I am going to learn (HTML,CSS,Java script).
 
----
-name: student bio
-about: A template PR for student bios
-title: 'Hajir-pro.md: bio'
-labels: student-bio
----
-
-<!--
-  make this PR easy to find:
-
-  - assign: yourself
-  - milestone: precourse
--->
-
-Quality checks:
-
-- [ ] My markdown code is tidy and contains no mistakes
-- [ ] I have previewed my bio and it looks the way I like it
-
-<!--
-  replace "x" with the number of your precourse issue
-  an issue's number is listed when you search for it in the repo
--->
-
-linked to #x
+![html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
